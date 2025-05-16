@@ -7,7 +7,7 @@ const summaryService = new SummaryService(gitService);
 async function main() {
     try {
         // Get current working directory - replace with actual repo path if needed
-        const repoPath = '/home/sarik/Projects/Clubforce/app';
+        const repoPath = '/home/sarik/Projects/devtime-buddy';
         const plansForTomorrow = [] as string[];
         const blockers = [] as string[];
 
