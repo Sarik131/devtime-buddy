@@ -1,5 +1,3 @@
-# Sure, here's the content for the README.md file:
-
 # DevTime Buddy
 
 DevTime Buddy is an AI-powered daily developer summary tool that automates the creation of daily coding summaries based on Git activity. This tool helps developers keep track of their progress, tasks, and blockers by generating structured summaries from their Git commits and pull requests.
